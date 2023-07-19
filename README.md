@@ -7,7 +7,7 @@ tte
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Athulsha_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athulsha_k" height="30" width="40" /></a>
+<a href="[https://twitter.com/Athulsha_k](https://twitter.com/Athulsha_k)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athulsha_k" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/athulsha-k-423752230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athulsha k" height="30" width="40" /></a>
 <a href="https://instagram.com/_godf_ther_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_godf_ther_" height="30" width="40" /></a>
 </p>
