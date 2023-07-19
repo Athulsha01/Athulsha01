@@ -4,6 +4,13 @@
 
 <h1 align="center">Hi There👋, I'm ATHULSHA</h1>
 <h3 align="center">A young entrepreneur</h3>
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:
+
+- 🔭 I’m currently working on **Piecker technologies**
+- 🌱 I’m currently learning **Machine learning**
+- 👯 I’m looking to collaborate on **Java and Web Projects.**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/abhinandanraj?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
+- 💬 Ask me about **Java, HTML and CSS.**
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athulsha01&label=Profile%20views&color=0e75b6&style=flat" alt="athulsha01" /> </p>
