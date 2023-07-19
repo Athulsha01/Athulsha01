@@ -2,8 +2,8 @@
 <h3 align="center">A young entrepreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athulsha01&label=Profile%20views&color=0e75b6&style=flat" alt="athulsha01" /> </p>
-tte
-- 🔭 I’m currently working on **piecker technologies**
+
+ I’m currently working on **piecker technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
