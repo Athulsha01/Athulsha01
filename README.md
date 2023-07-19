@@ -1,5 +1,5 @@
 <a href="https://github.com/Athulsha01">
-  <img src="https://www.baldwinpl.org/wp-content/uploads/2019/11/Processing-GIF.gif" width="100%" height="300">
+  <img src="https://assets-global.website-files.com/59e16042ec229e00016d3a66/5ec309e1c054f71b2cc5109b_flow-chart-hero.gif">
 </a>
 
 <h1 align="center">Hi There👋, I'm ATHULSHA</h1>
